@@ -1,0 +1,2 @@
+Ini file newContoh
+Untuk memberi contoh write file
